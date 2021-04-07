@@ -1,0 +1,464 @@
+@media (min-width:320px) and (max-width:575px) {
+    .tittle p {
+        width: auto;
+    }
+    header .header-contact span {
+        display: block;
+        text-align: center;
+    }
+    header .header-contact a {
+        display: block;
+        margin-left: 0;
+        text-align: center;
+    }
+    header .header-reg {
+        text-align: center;
+    }
+    nav ul {
+        background: #2d3e50;
+        text-align: center;
+        padding-top: 10px;
+    }
+    /*
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+*/
+    nav ul li {
+        margin-top: 0;
+        margin-right: 0;
+    }
+    nav ul li a {
+        color: #fff;
+    }
+    nav .nav-button {
+        background: #2d3e50;
+        margin-top: 0;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0rem;
+    }
+    nav i {
+        margin-top: 20px;
+    }
+    nav .nav-button a:hover {
+        background: #fff;
+        color: #2d3e50;
+    }
+    #banner-section .slider .overlay h4 {
+        font-size: 30px;
+    }
+    #banner-section .slider .overlay h2 {
+        font-size: 28px;
+    }
+    #banner-section .slider .overlay p {
+        width: auto;
+        margin-bottom: 30px;
+    }
+    #banner-section .slider .overlay a {
+        padding: 12px 12px;
+        margin-right: 5px;
+    }
+    #banner-section .slider .overlay {
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+    #banner-Facilities .Facilities-item {
+        transform: translateY(0)
+    }
+    #banner-section .slick-dots {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #banner-section .slick-dots li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    #banner-section .slick-dots li button {
+        font-size: 0;
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        border: 1px solid #fbaa33;
+        border-radius: 50%;
+    }
+    #banner-section .slick-dots .slick-active button {
+        background: #fbaa33
+    }
+    #abour-section {
+        margin-top: 50px;
+    }
+    #abour-section .top-bottom-shape::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape::after {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::after {
+        display: none;
+    }
+    #abour-section .text .button a {
+        padding: 12px 9px;
+        margin-right: 8px;
+        margin-top: 23px;
+    }
+    #counter-up .item h4::before {
+        display: none;
+    }
+    #counter-up .item h4::after {
+        display: none;
+    }
+    #Events .event-img {
+        width: 100%;
+    }
+    #Events .blog-item .image {
+        position: relative;
+        top: 0;
+        left: 0
+    }
+    #Events .blog-item .image img {
+        width: 100%;
+    }
+    #Events .blog-item {
+        padding: 0px 0 20px 0;
+        text-align: center;
+    }
+    #Testimonial .accordion h2 button {
+        font-size: 17px;
+    }
+    #Testimonial .accordion-button:focus {
+        border: 0;
+    }
+    #blog-section .top-blog .blog-overlay .tittle {
+        margin-top: 0;
+    }
+    #blog-section .top-blog .blog-overlay .icon {
+        display: none;
+    }
+    #blog-section .top-blog .blog .blog-overlay {
+        padding: 0;
+        padding-left: 10px;
+    }
+    footer .footer-left a {
+        margin-right: 10px;
+    }
+    /*    ==================*/
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .tittle p {
+        width: auto;
+    }
+    header .header-contact span {
+        display: block;
+        text-align: center;
+    }
+    header .header-contact a {
+        display: block;
+        margin-left: 0;
+        text-align: center;
+    }
+    header .header-reg {
+        text-align: center;
+    }
+    nav ul {
+        background: #2d3e50;
+        text-align: center;
+        padding-top: 10px;
+    }
+    /*
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+*/
+    nav ul li {
+        margin-top: 0;
+        margin-right: 0;
+    }
+    nav ul li a {
+        color: #fff;
+    }
+    nav .nav-button {
+        background: #2d3e50;
+        margin-top: 0;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0rem;
+    }
+    nav i {
+        margin-top: 20px;
+    }
+    nav .nav-button a:hover {
+        background: #fff;
+        color: #2d3e50;
+    }
+    #banner-section .slider .overlay h4 {
+        font-size: 30px;
+    }
+    #banner-section .slider .overlay h2 {
+        font-size: 28px;
+    }
+    #banner-section .slider .overlay p {
+        width: auto;
+        margin-bottom: 30px;
+    }
+    #banner-section .slider .overlay a {
+        padding: 12px 12px;
+        margin-right: 5px;
+    }
+    #banner-section .slider .overlay {
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+    #banner-Facilities .Facilities-item {
+        transform: translateY(0)
+    }
+    #banner-section .slick-dots {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #banner-section .slick-dots li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    #banner-section .slick-dots li button {
+        font-size: 0;
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        border: 1px solid #fbaa33;
+        border-radius: 50%;
+    }
+    #banner-Facilities .Facilities-item h3 {
+        font-size: 20px;
+    }
+    #banner-section .slick-dots .slick-active button {
+        background: #fbaa33
+    }
+    #abour-section {
+        margin-top: 50px;
+    }
+    #abour-section .top-bottom-shape::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape::after {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::after {
+        display: none;
+    }
+    #abour-section .text .button a {
+        padding: 12px 9px;
+        margin-right: 8px;
+        margin-top: 23px;
+    }
+    #counter-up .item h4::before {
+        display: none;
+    }
+    #counter-up .item h4::after {
+        display: none;
+    }
+    #Events .event-img {
+        width: 100%;
+    }
+    #Events .blog-item .image {
+        position: relative;
+        top: 0;
+        left: 0
+    }
+    #Events .blog-item .image img {
+        width: 100%;
+    }
+    #Events .blog-item {
+        padding: 0px 0 20px 0;
+        text-align: center;
+    }
+    #Testimonial .accordion h2 button {
+        font-size: 17px;
+    }
+    #Testimonial .accordion-button:focus {
+        border: 0;
+    }
+    #blog-section .top-blog .blog-overlay .tittle {
+        margin-top: 0;
+    }
+    #blog-section .top-blog .blog-overlay .icon {
+        display: none;
+    }
+    #blog-section .top-blog .blog .blog-overlay {
+        padding: 0;
+        padding-left: 10px;
+    }
+    footer .footer-left a {
+        margin-right: 10px;
+    }
+    /*    ==================*/
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    nav ul {
+        background: #2d3e50;
+        text-align: center;
+        padding-top: 10px;
+    }
+    /*
+    nav #navbarSupportedContent{
+        position: absolute;
+        width: 100%;
+        top: 90px;
+        left: 0;
+        z-index: 9999;
+    }
+*/
+    nav ul li {
+        margin-top: 0;
+        margin-right: 0;
+    }
+    nav ul li a {
+        color: #fff;
+    }
+    nav .nav-button {
+        background: #2d3e50;
+        margin-top: 0;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0rem;
+    }
+    nav i {
+        margin-top: 20px;
+    }
+    nav .nav-button a:hover {
+        background: #fff;
+        color: #2d3e50;
+    }
+    #banner-section .slider .overlay h4 {
+        font-size: 30px;
+    }
+    #banner-section .slider .overlay h2 {
+        font-size: 28px;
+    }
+    #banner-section .slider .overlay p {
+        width: auto;
+        margin-bottom: 30px;
+    }
+    #banner-section .slider .overlay a {
+        padding: 12px 12px;
+        margin-right: 5px;
+    }
+    #banner-section .slider .overlay {
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+    #banner-Facilities .Facilities-item {
+        transform: translateY(0)
+    }
+    #banner-section .slick-dots {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #banner-section .slick-dots li {
+        display: inline-block;
+        margin: 0 10px;
+    }
+    #banner-section .slick-dots li button {
+        font-size: 0;
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        border: 1px solid #fbaa33;
+        border-radius: 50%;
+    }
+    #banner-Facilities .Facilities-item h3 {
+        font-size: 20px;
+    }
+    #banner-section .slick-dots .slick-active button {
+        background: #fbaa33
+    }
+    #abour-section {
+        margin-top: 50px;
+    }
+    #abour-section .top-bottom-shape::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape::after {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::before {
+        display: none;
+    }
+    #abour-section .top-bottom-shape2::after {
+        display: none;
+    }
+    #abour-section .text .button a {
+        padding: 12px 9px;
+        margin-right: 8px;
+        margin-top: 23px;
+    }
+    #counter-up .item h4 {
+        font-size: 20px;
+    }
+    #Events .event-img {
+        width: 100%;
+    }
+    #Events .m-blog {
+        margin-top: 0;
+    }
+    #Events .blog-item .image {
+        position: relative;
+        top: 0;
+        left: 0
+    }
+    #Events .blog-item .image img {
+        width: 100%;
+    }
+    #Events .blog-item {
+        padding: 0px 0 20px 0;
+        text-align: center;
+    }
+    #Testimonial .accordion h2 button {
+        font-size: 17px;
+    }
+    #Testimonial .accordion-button:focus {
+        border: 0;
+    }
+    #blog-section .top-blog .blog-overlay .tittle {
+        margin-top: 0;
+    }
+    #blog-section .top-blog .blog-overlay .icon {
+        display: none;
+    }
+    #blog-section .top-blog .blog .blog-overlay {
+        padding: 0;
+        padding-left: 10px;
+    }
+    footer .footer-left a {
+        margin-right: 10px;
+    }
+    /*    ==================*/
+}
